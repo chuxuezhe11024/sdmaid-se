@@ -1,13 +1,13 @@
-<img src="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" width="400">
+<百万毫克学生代表会="https://github.com/d4rken-org/sdmaid-se/raw/main/.assets/banner.png" 宽度="400">
 
-# SD Maid 2/SE
+#SD女佣2/SE
 
-[![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
+[![应用编程接口](https://img.shields.io/badge/API-26%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=26)
 [![Crowdin](https://badges.crowdin.net/sdmaid-se/localized.svg)](https://crowdin.com/project/sdmaid-se)
-[![Code tests & eval](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
+[![代码测试和eval](https://img.shields.io/github/actions/workflow/status/d4rken-org/sdmaid-se/code-checks.yml?logo=githubactions&label=Code%20tests
 )](https://github.com/d4rken-org/sdmaid-se/actions)
-[![Github Downloads](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
-[![Google Play Downloads](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![Github下载](https://img.shields.io/github/downloads/d4rken-org/sdmaid-se/total.svg?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
+[![Google Play下载](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 [![⭐](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.sdmse%26gl%3DUS%26hl%3Den%26l%3D%25E2%25AD%2590%26m%3D%24rating)](https://github.com/d4rken-org/sdmaid-se/edit/main/README.md#download)
 
 > _**SD Maid 2/SE is actively being worked on and not feature complete. Feature requests are welcome!**_
